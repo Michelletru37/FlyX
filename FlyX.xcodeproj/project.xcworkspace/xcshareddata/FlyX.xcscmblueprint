@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CBD00FABBB720A4E54194E260690E3B636EE40F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "22782F669AD07A88D914D1F7BE5468F60EB7AD60" : 9223372036854775807,
+    "CBD00FABBB720A4E54194E260690E3B636EE40F6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "542C9734-D821-4D1F-996D-72C91179B3AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "22782F669AD07A88D914D1F7BE5468F60EB7AD60" : "",
+    "CBD00FABBB720A4E54194E260690E3B636EE40F6" : "FlyX\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FlyX",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FlyX\/FlyX.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Michelletru37\/FlyX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22782F669AD07A88D914D1F7BE5468F60EB7AD60"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Michelletru37\/FlyX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBD00FABBB720A4E54194E260690E3B636EE40F6"
+    }
+  ]
+}
